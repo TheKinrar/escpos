@@ -1,3 +1,3 @@
-module github.com/kenshaw/escpos
+module github.com/TheKinrar/escpos
 
 go 1.12
